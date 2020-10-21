@@ -1,4 +1,4 @@
-{"CO_ESCOLA": {"nome": "Código da Escola4"},
+"{"CO_ESCOLA": {"nome": "Código da Escola4"},
  "CO_MUNICIPIO_ESC": {"nome": "Código do município da escola "},
  "CO_MUNICIPIO_NASCIMENTO": {"nome": "Código do município de nascimento"},
  "CO_MUNICIPIO_PROVA": {"nome": "Código do município da aplicação da prova"},
@@ -435,4 +435,4 @@
  "TX_RESPOSTAS_CH": {"nome": "Vetor com as respostas da parte objetiva da prova de Ciências Humanas"},
  "TX_RESPOSTAS_CN": {"nome": "Vetor com as respostas da parte objetiva da prova de Ciências da Natureza"},
  "TX_RESPOSTAS_LC": {"nome": "Vetor com as respostas da parte objetiva da prova de Linguagens e Códigos"},
- "TX_RESPOSTAS_MT": {"nome": "Vetor com as respostas da parte objetiva da prova de Matemática"}}
+ """TX_RESPOSTAS_MT": {"nome": "Vetor com as respostas da parte objetiva da prova de Matemática"}}"
